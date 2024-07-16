@@ -15,6 +15,6 @@ vim.api.nvim_create_autocmd({ "BufEnter", "BufWritePost", "InsertLeave" }, {
 
 local map = vim.keymap.set
 
-map("n", "<leader>tl", function()
+map("n", "<leader>l", function()
   lint.try_lint()
 end, { desc = "Lint current file" })

@@ -40,13 +40,6 @@ return {
     end,
   },
   {
-    "folke/trouble.nvim",
-    event = { "BufNewFile", "BufReadPre" },
-    config = function()
-      require "configs.trouble"
-    end,
-  },
-  {
     "mfussenegger/nvim-dap",
     init = function()
       require "configs.dap"

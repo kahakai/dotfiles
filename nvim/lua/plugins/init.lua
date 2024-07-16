@@ -1,9 +1,9 @@
 return {
   {
-  	"nvim-treesitter/nvim-treesitter",
+    "nvim-treesitter/nvim-treesitter",
     opts = {
       ensure_installed = {
-        "go"
+        "go",
       },
     },
   },
@@ -15,11 +15,13 @@ return {
     end,
   },
   {
-  	"williamboman/mason.nvim",
-  	opts = {
+    "williamboman/mason.nvim",
+    build = ":MasonInstallAll",
+    opts = {
       ensure_installed = {
-        "lua-language-server", "stylua",
-        "gopls"
+        "lua-language-server",
+        "stylua",
+        "gopls",
       },
     },
   },

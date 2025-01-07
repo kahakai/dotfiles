@@ -4,7 +4,7 @@ local config = wezterm.config_builder()
 
 config.keys = {
 	{
-		key = "w",
+		key = "x",
 		mods = "CTRL",
 		action = wezterm.action.CloseCurrentPane({ confirm = false }),
 	},

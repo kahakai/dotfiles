@@ -15,6 +15,11 @@
     }
   },
   "lsp": {
+    "dart": {
+      "settings": {
+        "lineLength": 100
+      }
+    },
     "elixir-ls": {
       "settings": {
         "dialyzerEnabled": false

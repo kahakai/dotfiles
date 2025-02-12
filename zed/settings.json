@@ -9,6 +9,11 @@
     "dart": true,
     "elixir": true
   },
+  "git": {
+    "inline_blame": {
+      "enabled": false
+    }
+  },
   "languages": {
     "Elixir": {
       "language_servers": ["elixir-ls"]

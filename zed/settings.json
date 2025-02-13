@@ -7,7 +7,8 @@
   "buffer_font_size": 12,
   "auto_install_extensions": {
     "dart": true,
-    "elixir": true
+    "elixir": true,
+    "emmet": true
   },
   "git": {
     "inline_blame": {
@@ -19,7 +20,11 @@
       "language_servers": ["elixir-ls", "tailwindcss-language-server"]
     },
     "HEEX": {
-      "language_servers": ["elixir-ls", "tailwindcss-language-server"]
+      "language_servers": [
+        "elixir-ls",
+        "tailwindcss-language-server",
+        "emmet-language-server"
+      ]
     }
   },
   "lsp": {

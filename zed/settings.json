@@ -16,7 +16,10 @@
   },
   "languages": {
     "Elixir": {
-      "language_servers": ["elixir-ls"]
+      "language_servers": ["elixir-ls", "tailwindcss-language-server"]
+    },
+    "HEEX": {
+      "language_servers": ["elixir-ls", "tailwindcss-language-server"]
     }
   },
   "lsp": {

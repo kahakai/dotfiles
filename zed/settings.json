@@ -6,6 +6,7 @@
   "ui_font_size": 14,
   "buffer_font_size": 12,
   "auto_install_extensions": {
+    "zed-legacy-themes": true,
     "dart": true,
     "elixir": true,
     "emmet": true
@@ -45,8 +46,8 @@
   },
   "theme": {
     "mode": "system",
-    "light": "Rosé Pine Dawn",
-    "dark": "Rosé Pine Moon"
+    "light": "Zed Legacy: Rosé Pine Dawn",
+    "dark": "Zed Legacy: Rosé Pine Moon"
   },
   "assistant": {
     "default_model": {

@@ -52,7 +52,7 @@
   "assistant": {
     "default_model": {
       "provider": "anthropic",
-      "model": "claude-3-5-haiku-latest"
+      "model": "claude-3-7-sonnet-latest"
     },
     "version": "2"
   },

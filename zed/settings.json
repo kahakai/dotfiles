@@ -30,6 +30,9 @@
         "tailwindcss-language-server",
         "emmet-language-server"
       ]
+    },
+    "YAML": {
+      "formatter": "language_server"
     }
   },
   "lsp": {
@@ -41,6 +44,15 @@
     "elixir-ls": {
       "settings": {
         "dialyzerEnabled": false
+      }
+    },
+    "yaml-language-server": {
+      "settings": {
+        "yaml": {
+          "format": {
+            "singleQuote": true
+          }
+        }
       }
     }
   },

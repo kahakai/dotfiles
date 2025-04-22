@@ -45,6 +45,17 @@
   "outline_panel": {
     "button": false
   },
+  "terminal": {
+    "alternate_scroll": "off",
+    "blinking": "terminal_controlled",
+    "copy_on_select": true,
+    "line_height": "standard",
+    "toolbar": {
+      "title": true
+    },
+    "working_directory": "current_project_directory",
+    "button": false
+  },
   "assistant": {
     "default_model": {
       "provider": "anthropic",

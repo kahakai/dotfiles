@@ -72,7 +72,9 @@
     "zed-legacy-themes": true,
     "dart": true,
     "elixir": true,
-    "emmet": true
+    "html": true,
+    "emmet": true,
+    "scss": true
   },
   "languages": {
     "Elixir": {

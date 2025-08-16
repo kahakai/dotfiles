@@ -18,11 +18,9 @@
       "space f f": "file_finder::Toggle",
       "space o": "tab_switcher::Toggle",
       "space e": "workspace::ToggleLeftDock",
-      "space /": "workspace::NewSearch",
       "n": "search::SelectNextMatch",
       "shift-n": "search::SelectPreviousMatch",
       "space t": "workspace::NewCenterTerminal",
-      "g b": "editor::ToggleComments",
       "+ +": "workspace::Save",
       "space c": "pane::CloseActiveItem"
     }

@@ -28,6 +28,7 @@
   {
     "context": "vim_mode == insert",
     "bindings": {
+      "j k": "vim::NormalBefore",
       "ctrl-k": "editor::ContextMenuPrevious",
       "ctrl-j": "editor::ContextMenuNext"
     }

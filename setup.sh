@@ -1,8 +1,5 @@
 #!/bin/bash
 
-# Install Homebrew
-curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh | bash
-
 # Install Homebrew dependencies from Brewfile
 brew bundle
 

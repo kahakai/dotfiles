@@ -3,6 +3,9 @@
 # Install Homebrew dependencies from Brewfile
 brew bundle
 
+# Set up fish shell
+bash fish.sh
+
 # Set up macOS defaults
 bash macos.sh
 

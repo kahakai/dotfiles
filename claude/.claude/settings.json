@@ -8,6 +8,8 @@
     "code-review-ai@claude-code-workflows": true,
     "functional-programming@claude-code-workflows": true
   },
+  "alwaysThinkingEnabled": true,
+  "effortLevel": "medium",
   "feedbackSurveyState": {
     "lastShownTime": 1754055384231
   }

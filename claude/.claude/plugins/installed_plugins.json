@@ -1,0 +1,71 @@
+{
+  "version": 2,
+  "plugins": {
+    "code-documentation@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/code-documentation/unknown",
+        "version": "unknown",
+        "installedAt": "2025-11-24T15:38:45.592Z",
+        "lastUpdated": "2025-11-24T15:38:45.592Z",
+        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c",
+        "isLocal": true
+      }
+    ],
+    "debugging-toolkit@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/debugging-toolkit/unknown",
+        "version": "unknown",
+        "installedAt": "2025-11-24T15:38:45.592Z",
+        "lastUpdated": "2025-11-24T15:38:45.592Z",
+        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c",
+        "isLocal": true
+      }
+    ],
+    "git-pr-workflows@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/git-pr-workflows/unknown",
+        "version": "unknown",
+        "installedAt": "2025-11-24T15:38:45.592Z",
+        "lastUpdated": "2025-11-24T15:38:45.592Z",
+        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c",
+        "isLocal": true
+      }
+    ],
+    "backend-development@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/backend-development/unknown",
+        "version": "unknown",
+        "installedAt": "2025-11-24T15:38:45.592Z",
+        "lastUpdated": "2025-11-24T15:38:45.592Z",
+        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c",
+        "isLocal": true
+      }
+    ],
+    "code-review-ai@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/code-review-ai/unknown",
+        "version": "unknown",
+        "installedAt": "2025-11-24T15:38:45.592Z",
+        "lastUpdated": "2025-11-24T15:38:45.592Z",
+        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c",
+        "isLocal": true
+      }
+    ],
+    "functional-programming@claude-code-workflows": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/functional-programming/unknown",
+        "version": "unknown",
+        "installedAt": "2025-11-24T15:38:45.592Z",
+        "lastUpdated": "2025-11-24T15:38:45.592Z",
+        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c",
+        "isLocal": true
+      }
+    ]
+  }
+}

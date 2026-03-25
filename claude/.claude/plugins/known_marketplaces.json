@@ -1,0 +1,18 @@
+{
+  "claude-code-workflows": {
+    "source": {
+      "source": "github",
+      "repo": "wshobson/agents"
+    },
+    "installLocation": "/Users/kahakai/.claude/plugins/marketplaces/claude-code-workflows",
+    "lastUpdated": "2026-01-14T10:55:50.612Z"
+  },
+  "claude-plugins-official": {
+    "source": {
+      "source": "github",
+      "repo": "anthropics/claude-plugins-official"
+    },
+    "installLocation": "/Users/kahakai/.claude/plugins/marketplaces/claude-plugins-official",
+    "lastUpdated": "2026-03-24T15:05:38.967Z"
+  }
+}

@@ -82,7 +82,7 @@
         "emmet-language-server"
       ]
     },
-    "HEEX": {
+    "HEEx": {
       "language_servers": [
         "elixir-ls",
         "tailwindcss-language-server",

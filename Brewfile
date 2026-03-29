@@ -1,6 +1,8 @@
+brew "fabric-ai"
 brew "fish"
 brew "lazygit"
 brew "mise"
+brew "yt-dlp"
 cask "beekeeper-studio"
 cask "brave-browser"
 cask "claude"

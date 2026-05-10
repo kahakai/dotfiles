@@ -18,7 +18,16 @@
     "git-pr-workflows@claude-code-workflows": true,
     "backend-development@claude-code-workflows": true,
     "code-review-ai@claude-code-workflows": true,
-    "functional-programming@claude-code-workflows": true
+    "functional-programming@claude-code-workflows": true,
+    "andrej-karpathy-skills@karpathy-skills": true
+  },
+  "extraKnownMarketplaces": {
+    "karpathy-skills": {
+      "source": {
+        "source": "github",
+        "repo": "forrestchang/andrej-karpathy-skills"
+      }
+    }
   },
   "alwaysThinkingEnabled": true,
   "effortLevel": "medium",

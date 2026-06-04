@@ -28,8 +28,9 @@
     }
   },
   "alwaysThinkingEnabled": true,
-  "effortLevel": "medium",
+  "effortLevel": "high",
   "feedbackSurveyState": {
     "lastShownTime": 1754055384231
-  }
+  },
+  "theme": "light"
 }

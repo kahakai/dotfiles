@@ -17,13 +17,20 @@
     "debugging-toolkit@claude-code-workflows": true,
     "git-pr-workflows@claude-code-workflows": true,
     "backend-development@claude-code-workflows": false,
-    "andrej-karpathy-skills@karpathy-skills": true
+    "andrej-karpathy-skills@karpathy-skills": true,
+    "elixir-phoenix-guide@elixir-phoenix-guide": true
   },
   "extraKnownMarketplaces": {
     "karpathy-skills": {
       "source": {
         "source": "github",
         "repo": "forrestchang/andrej-karpathy-skills"
+      }
+    },
+    "elixir-phoenix-guide": {
+      "source": {
+        "source": "github",
+        "repo": "j-morgan6/elixir-phoenix-guide"
       }
     }
   },

@@ -50,6 +50,16 @@
         "lastUpdated": "2026-05-10T10:22:55.658Z",
         "gitCommitSha": "2c606141936f1eeef17fa3043a72095b4765b9c2"
       }
+    ],
+    "elixir-phoenix-guide@elixir-phoenix-guide": [
+      {
+        "scope": "user",
+        "installPath": "/Users/kahakai/.claude/plugins/cache/elixir-phoenix-guide/elixir-phoenix-guide/2.3.1",
+        "version": "2.3.1",
+        "installedAt": "2026-06-04T21:52:31.042Z",
+        "lastUpdated": "2026-06-04T21:52:31.042Z",
+        "gitCommitSha": "32a9ec7036cf6bd732d32412f2d67ce4a9795f9a"
+      }
     ]
   }
 }

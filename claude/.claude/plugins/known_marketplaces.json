@@ -22,5 +22,13 @@
     },
     "installLocation": "/Users/kahakai/.claude/plugins/marketplaces/karpathy-skills",
     "lastUpdated": "2026-05-10T10:22:40.214Z"
+  },
+  "elixir-phoenix-guide": {
+    "source": {
+      "source": "github",
+      "repo": "j-morgan6/elixir-phoenix-guide"
+    },
+    "installLocation": "/Users/kahakai/.claude/plugins/marketplaces/elixir-phoenix-guide",
+    "lastUpdated": "2026-06-04T21:52:09.715Z"
   }
 }

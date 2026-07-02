@@ -1,4 +1,5 @@
 tap "jundot/omlx", "https://github.com/jundot/omlx"
+brew "atlassian/homebrew-acli/acli"
 brew "fabric-ai"
 brew "fish"
 brew "lazygit"

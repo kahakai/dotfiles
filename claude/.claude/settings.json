@@ -10,8 +10,10 @@
       "Bash(docker compose exec:*)",
       "Bash(grep:*)",
       "Bash(rg:*)"
-    ]
+    ],
+    "defaultMode": "plan"
   },
+  "model": "sonnet",
   "enabledPlugins": {
     "code-documentation@claude-code-workflows": true,
     "debugging-toolkit@claude-code-workflows": true,
@@ -36,8 +38,15 @@
   },
   "alwaysThinkingEnabled": true,
   "effortLevel": "high",
+  "theme": "light",
+  "editorMode": "vim",
+  "remoteControlAtStartup": false,
+  "attribution": {
+    "commit": "",
+    "pr": "",
+    "sessionUrl": false
+  },
   "feedbackSurveyState": {
     "lastShownTime": 1754055384231
-  },
-  "theme": "light"
+  }
 }

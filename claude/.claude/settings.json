@@ -1,5 +1,10 @@
 {
   "$schema": "https://json.schemastore.org/claude-code-settings.json",
+  "attribution": {
+    "commit": "",
+    "pr": "",
+    "sessionUrl": false
+  },
   "permissions": {
     "allow": [
       "Bash(ls:*)",
@@ -20,7 +25,8 @@
     "git-pr-workflows@claude-code-workflows": true,
     "backend-development@claude-code-workflows": false,
     "andrej-karpathy-skills@karpathy-skills": true,
-    "elixir-phoenix-guide@elixir-phoenix-guide": true
+    "elixir-phoenix-guide@elixir-phoenix-guide": true,
+    "humanizer@humanizer": true
   },
   "extraKnownMarketplaces": {
     "karpathy-skills": {
@@ -34,6 +40,12 @@
         "source": "github",
         "repo": "j-morgan6/elixir-phoenix-guide"
       }
+    },
+    "humanizer": {
+      "source": {
+        "source": "github",
+        "repo": "blader/humanizer"
+      }
     }
   },
   "alwaysThinkingEnabled": true,
@@ -41,11 +53,6 @@
   "theme": "light",
   "editorMode": "vim",
   "remoteControlAtStartup": false,
-  "attribution": {
-    "commit": "",
-    "pr": "",
-    "sessionUrl": false
-  },
   "feedbackSurveyState": {
     "lastShownTime": 1754055384231
   }

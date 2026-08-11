@@ -26,7 +26,8 @@
     "backend-development@claude-code-workflows": false,
     "andrej-karpathy-skills@karpathy-skills": true,
     "elixir-phoenix-guide@elixir-phoenix-guide": true,
-    "humanizer@humanizer": true
+    "humanizer@humanizer": true,
+    "diagram-design@diagram-design": true
   },
   "extraKnownMarketplaces": {
     "karpathy-skills": {
@@ -45,6 +46,12 @@
       "source": {
         "source": "github",
         "repo": "blader/humanizer"
+      }
+    },
+    "diagram-design": {
+      "source": {
+        "source": "github",
+        "repo": "cathrynlavery/diagram-design"
       }
     }
   },

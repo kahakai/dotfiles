@@ -5,7 +5,7 @@
       "repo": "wshobson/agents"
     },
     "installLocation": "/Users/kahakai/.claude/plugins/marketplaces/claude-code-workflows",
-    "lastUpdated": "2026-06-04T21:38:19.727Z"
+    "lastUpdated": "2026-08-14T14:12:29.830Z"
   },
   "claude-plugins-official": {
     "source": {
@@ -13,7 +13,7 @@
       "repo": "anthropics/claude-plugins-official"
     },
     "installLocation": "/Users/kahakai/.claude/plugins/marketplaces/claude-plugins-official",
-    "lastUpdated": "2026-08-10T16:20:10.071Z"
+    "lastUpdated": "2026-08-14T14:12:41.565Z"
   },
   "karpathy-skills": {
     "source": {

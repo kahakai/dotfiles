@@ -21,26 +21,6 @@
         "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c"
       }
     ],
-    "git-pr-workflows@claude-code-workflows": [
-      {
-        "scope": "user",
-        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/git-pr-workflows/1.3.1",
-        "version": "1.3.1",
-        "installedAt": "2025-11-24T15:38:45.592Z",
-        "lastUpdated": "2026-06-04T21:38:19.733Z",
-        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c"
-      }
-    ],
-    "backend-development@claude-code-workflows": [
-      {
-        "scope": "user",
-        "installPath": "/Users/kahakai/.claude/plugins/cache/claude-code-workflows/backend-development/1.3.2",
-        "version": "1.3.2",
-        "installedAt": "2025-11-24T15:38:45.592Z",
-        "lastUpdated": "2026-06-04T21:38:19.738Z",
-        "gitCommitSha": "ddbd034ca35c6e76af6e54891d83a646e7837b1c"
-      }
-    ],
     "andrej-karpathy-skills@karpathy-skills": [
       {
         "scope": "user",

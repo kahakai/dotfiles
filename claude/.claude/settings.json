@@ -22,8 +22,6 @@
   "enabledPlugins": {
     "code-documentation@claude-code-workflows": true,
     "debugging-toolkit@claude-code-workflows": true,
-    "git-pr-workflows@claude-code-workflows": true,
-    "backend-development@claude-code-workflows": false,
     "andrej-karpathy-skills@karpathy-skills": true,
     "elixir-phoenix-guide@elixir-phoenix-guide": true,
     "humanizer@humanizer": true,

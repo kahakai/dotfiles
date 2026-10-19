@@ -18,7 +18,7 @@
     ],
     "defaultMode": "plan"
   },
-  "model": "sonnet",
+  "model": "claude-sonnet-5",
   "enabledPlugins": {
     "code-documentation@claude-code-workflows": true,
     "debugging-toolkit@claude-code-workflows": true,
@@ -55,6 +55,11 @@
   },
   "alwaysThinkingEnabled": true,
   "effortLevel": "high",
+  "modelSettings": {
+    "claude-sonnet-5-5": {
+      "effortLevel": "high"
+    }
+  },
   "theme": "light",
   "editorMode": "vim",
   "remoteControlAtStartup": false,

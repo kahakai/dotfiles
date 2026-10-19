@@ -14,7 +14,10 @@
       "Bash(docker exec:*)",
       "Bash(docker compose exec:*)",
       "Bash(grep:*)",
-      "Bash(rg:*)"
+      "Bash(rg:*)",
+      "Bash(mix compile *)",
+      "Bash(mix test *)",
+      "Bash(acli jira *)"
     ],
     "defaultMode": "plan"
   },

@@ -61,10 +61,14 @@
   "modelSettings": {
     "claude-sonnet-5-5": {
       "effortLevel": "high"
+    },
+    "claude-opus-5-5": {
+      "effortLevel": "high"
     }
   },
   "theme": "light",
   "editorMode": "vim",
+  "autoCompactEnabled": true,
   "remoteControlAtStartup": false,
   "feedbackSurveyState": {
     "lastShownTime": 1754055384231

@@ -59,6 +59,7 @@
       }
     }
   },
+  "spinnerTipsEnabled": false,
   "alwaysThinkingEnabled": true,
   "effortLevel": "high",
   "modelSettings": {
@@ -69,7 +70,6 @@
   "theme": "light",
   "editorMode": "vim",
   "remoteControlAtStartup": false,
-  "spinnerTipsEnabled": false,
   "feedbackSurveyState": {
     "lastShownTime": 1754055384231
   }
